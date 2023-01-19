@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-In order to use this template, you need to have PostgreSQL installed and database (and schema) created.
+In order to use this template, you need to have [PostgreSQL](https://www.postgresql.org/) installed and database (and schema) created.
 
 ## Getting started
 
